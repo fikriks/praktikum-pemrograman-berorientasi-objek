@@ -6,7 +6,7 @@ Repository ini dibuat khusus untuk history dari pembelajaran dan penugasan Mata 
 
 ## :book: Daftar Modul
 
-- [ ] Modul 1 : Mengenal dan Memulai Java
+- [x] Modul 1 : Mengenal dan Memulai Java
 - [ ] Modul 2 : Pengenalan Objek dan Class
 - [ ] Modul 3 : OOP Lanjutan
 - [ ] Modul 4 : Constructor
