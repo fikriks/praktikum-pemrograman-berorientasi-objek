@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package praktikumpbo.modul1.praktikum;
+package PraktikumPBO.Modul1.Praktikum.Praktikum1;
 
 /**
  *

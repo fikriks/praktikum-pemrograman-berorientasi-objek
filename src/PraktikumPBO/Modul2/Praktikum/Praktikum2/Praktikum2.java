@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package PraktikumPBO.Modul2.Praktikum;
+package PraktikumPBO.Modul2.Praktikum.Praktikum2;
 
 import javax.swing.JOptionPane;
 
