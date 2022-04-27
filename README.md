@@ -8,9 +8,9 @@ Repository ini dibuat khusus untuk history dari pembelajaran dan penugasan Mata 
 
 - [x] Modul 1 : Mengenal dan Memulai Java
 - [x] Modul 2 : Pengenalan Objek dan Class
-- [ ] Modul 3 : OOP Lanjutan
-- [ ] Modul 4 : Constructor
-- [ ] Modul 5 : Inheritance (Pewarisan)
+- [x] Modul 3 : OOP Lanjutan
+- [x] Modul 4 : Constructor
+- [x] Modul 5 : Inheritance (Pewarisan)
 - [ ] Modul 6 : Polimorphism
 - [ ] Modul 7 : Abstract Class
 - [ ] Modul 8 : Interface
