@@ -2,7 +2,7 @@
 
 ## 👋 Introduction
 
-Repository ini dibuat khusus untuk history dari pembelajaran dan penugasan Mata Kuliah Praktikum Pemrograman Berorientasi Objek dengan menggunakan bahasa pemrograman **Java** dan **NetBeans 8** sebagai IDE-nya.
+Repository ini dibuat khusus untuk history dari pembelajaran dan penugasan Mata Kuliah Praktikum Pemrograman Berorientasi Objek dengan menggunakan bahasa pemrograman **Java** dan **Apache NetBeans** sebagai IDE-nya.
 
 ## :book: Daftar Modul
 
