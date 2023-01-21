@@ -16,6 +16,7 @@ Repository ini dibuat khusus untuk history dari pembelajaran dan penugasan Mata 
 - [x] Modul 8 : Interface
 - [x] Modul 9 : I/O Stream
 - [x] Modul 10 : GUI
+- [x] Final : UAS
 
 ---
 
